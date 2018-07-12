@@ -1,8 +1,8 @@
 // Write your code in this file!
-function getUKTime() {
+function getUKTime(eastcoast) {
   new Date().getHours() + 5
 }
  
-getUKTime()
+getUKTime(eastcoast)
 
 
